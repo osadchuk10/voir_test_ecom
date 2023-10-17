@@ -1,0 +1,34 @@
+<div class="custom-image-section">
+  <div class="row">
+    <div class="col-md-6">
+      <img src="{{ section.settings.image_1 | img_url: 'medium' }}" alt="image 1">
+    </div>
+    <div class="col-md-6">
+      <img src="{{ section.settings.image_2 | img_url: 'medium' }}" alt="image 2">
+    </div>
+  </div>
+</div>
+
+{% schema %}
+    {
+      "name": "Custom Image Section",
+      "settings": [
+        {
+          "type": "image_picker",
+          "label": "image 1",
+          "id": "image_1"
+        },
+        {
+          "type": "image_picker",
+          "label": "image 2",
+          "id": "image_2"
+        }
+      ],
+      "presets": [
+        {
+          "name": "custom image section",
+          "category": "Custom Image Section"
+        }
+      ]
+    }
+    {% endschema %}
