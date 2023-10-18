@@ -1,1 +1,123 @@
-{"type":"footer","name":"Footer group","sections":{"text-with-icons":{"type":"text-with-icons","blocks":{"icon-1":{"type":"item","settings":{"icon":"picto-award-gift","icon_width":24,"mobile_icon_width":24,"title":"Free delivery worldwide","content":"<p>Short content about your store<\/p>"}},"icon-2":{"type":"item","settings":{"icon":"picto-award-gift","icon_width":24,"mobile_icon_width":24,"title":"Satisfied or refunded","content":"<p>Short content about your store<\/p>"}},"icon-3":{"type":"item","settings":{"icon":"picto-award-gift","icon_width":24,"mobile_icon_width":24,"title":"Top-notch support","content":"<p>Short content about your store<\/p>"}},"icon-4":{"type":"item","settings":{"icon":"picto-award-gift","icon_width":24,"mobile_icon_width":24,"title":"Secure payments","content":"<p>Short content about your store<\/p>"}}},"block_order":["icon-1","icon-2","icon-3","icon-4"],"disabled":true,"settings":{"separate_section_with_border":true,"stack_on_mobile":false,"icon_color":"","text_color":"","text_alignment":"center"}},"footer":{"type":"footer","blocks":{"886ced91-1324-4e43-8c54-9d0d8d353737":{"type":"image","settings":{"image_width":280,"link":""}},"links":{"type":"links","settings":{"menu":"footer","show_menu_title":true}},"39d76fb7-86ad-4ef0-ae9d-889604243908":{"type":"links","settings":{"menu":"main-menu","show_menu_title":true}},"text":{"type":"text","settings":{"title":"Become a Distributor","content":"<p><strong>Phone:<\/strong> <a href=\"tel:04 1333 3122\" title=\"tel:04 1333 3122\">04 1333 3122<\/a><\/p><p><strong>Email:<\/strong> <a href=\"mailto:worldofbeautybycd@gmail.com\" title=\"mailto:worldofbeautybycd@gmail.com\">worldofbeautybycd@gmail.com<\/a><\/p>","enable_follow_on_shop":true}}},"block_order":["886ced91-1324-4e43-8c54-9d0d8d353737","links","39d76fb7-86ad-4ef0-ae9d-889604243908","text"],"custom_css":[".link-faded {color: #fff;}",".text-subdued {color: #fff;}"],"settings":{"separate_section_with_border":false,"show_social_media":true,"show_payment_icons":true,"show_country_selector":true,"show_country_name":true,"show_country_flag":true,"show_locale_selector":true}}},"order":["text-with-icons","footer"]}
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "icon-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-award-gift",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Free delivery worldwide",
+            "content": "<p>Short content about your store<\/p>"
+          }
+        },
+        "icon-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-award-gift",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Satisfied or refunded",
+            "content": "<p>Short content about your store<\/p>"
+          }
+        },
+        "icon-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-award-gift",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Top-notch support",
+            "content": "<p>Short content about your store<\/p>"
+          }
+        },
+        "icon-4": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-award-gift",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Secure payments",
+            "content": "<p>Short content about your store<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "icon-1",
+        "icon-2",
+        "icon-3",
+        "icon-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "separate_section_with_border": true,
+        "stack_on_mobile": false,
+        "icon_color": "",
+        "text_color": "",
+        "text_alignment": "center"
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "886ced91-1324-4e43-8c54-9d0d8d353737": {
+          "type": "image",
+          "settings": {
+            "image_width": 280,
+            "link": ""
+          }
+        },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true
+          }
+        },
+        "39d76fb7-86ad-4ef0-ae9d-889604243908": {
+          "type": "links",
+          "settings": {
+            "menu": "main-menu",
+            "show_menu_title": true
+          }
+        },
+        "d6b31813-4f9a-446e-b8de-35c763660368": {
+          "type": "newsletter",
+          "settings": {
+            "title": "WANT TO RECEIVE SPECIAL OFFER FROM VOIR?",
+            "content": "<p>Sign up with your email address to start receiving special offers<\/p>",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "886ced91-1324-4e43-8c54-9d0d8d353737",
+        "links",
+        "39d76fb7-86ad-4ef0-ae9d-889604243908",
+        "d6b31813-4f9a-446e-b8de-35c763660368"
+      ],
+      "custom_css": [
+        ".link-faded {color: #fff;}",
+        ".text-subdued {color: #fff;}"
+      ],
+      "settings": {
+        "separate_section_with_border": false,
+        "show_social_media": true,
+        "show_payment_icons": true,
+        "show_country_selector": true,
+        "show_country_name": true,
+        "show_country_flag": true,
+        "show_locale_selector": true
+      }
+    }
+  },
+  "order": [
+    "text-with-icons",
+    "footer"
+  ]
+}
