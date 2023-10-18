@@ -67,6 +67,12 @@
             "payment_button_text_color": ""
           }
         },
+        "5767275b-95c9-4e25-9bd1-4e948d7251ef": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"section-spacing section-spacing--padded bordered-section scroll-product\" style=\"--background: 28 28 28 ; background-color: rgb(var(--background));--text-color: 255 253 253; color: rgb(var(--text-color));--border-color:62 62 62; padding: 10px 0;\">\n    <marquee-text speed=\"0.2\" direction=\"right\" class=\"scrolling-content\">\n     <div class=\"scrolling-content__item\"><p class=\"scrolling-content__text heading\"> Complimentary shipping to the USA and canada <\/p><\/div>\n      \n    <div class=\"scrolling-content__item\" aria-hidden=\"true\" style=\"position: absolute; inset-inline-start: -100%;\"><p class=\"scrolling-content__text heading\"> Complimentary shipping to the USA and canada <\/p><\/div><div class=\"scrolling-content__item\" aria-hidden=\"true\" style=\"position: absolute; inset-inline-start: -200%;\"><p class=\"scrolling-content__text heading\"> Complimentary shipping to the USA and canada <\/p><\/div><div class=\"scrolling-content__item\" aria-hidden=\"true\" style=\"position: absolute; inset-inline-start: -300%;\"><p class=\"scrolling-content__text heading\"> Complimentary shipping to the USA and canada <\/p><\/div><div class=\"scrolling-content__item\" aria-hidden=\"true\" style=\"position: absolute; inset-inline-start: -400%;\"><p class=\"scrolling-content__text heading\"> Complimentary shipping to the USA and canada <\/p><\/div><div class=\"scrolling-content__item\" aria-hidden=\"true\" style=\"position: absolute; inset-inline-start: -500%;\"><p class=\"scrolling-content__text heading\"> Complimentary shipping to the USA and canada <\/p><\/div><\/marquee-text>\n  <\/div>"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -81,12 +87,6 @@
             "width_mode": "full_width",
             "max_width": 300,
             "mobile_max_width": 200
-          }
-        },
-        "5767275b-95c9-4e25-9bd1-4e948d7251ef": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"section-spacing section-spacing--padded bordered-section scroll-product\" style=\"--background: 28 28 28 ; background-color: rgb(var(--background));--text-color: 255 253 253; color: rgb(var(--text-color));--border-color:62 62 62; padding: 10px 0;\">\n    <marquee-text speed=\"0.2\" direction=\"right\" class=\"scrolling-content\">\n     <div class=\"scrolling-content__item\"><p class=\"scrolling-content__text heading\"> Complimentary shipping to the USA and canada <\/p><\/div>\n      \n    <div class=\"scrolling-content__item\" aria-hidden=\"true\" style=\"position: absolute; inset-inline-start: -100%;\"><p class=\"scrolling-content__text heading\"> Complimentary shipping to the USA and canada <\/p><\/div><div class=\"scrolling-content__item\" aria-hidden=\"true\" style=\"position: absolute; inset-inline-start: -200%;\"><p class=\"scrolling-content__text heading\"> Complimentary shipping to the USA and canada <\/p><\/div><div class=\"scrolling-content__item\" aria-hidden=\"true\" style=\"position: absolute; inset-inline-start: -300%;\"><p class=\"scrolling-content__text heading\"> Complimentary shipping to the USA and canada <\/p><\/div><div class=\"scrolling-content__item\" aria-hidden=\"true\" style=\"position: absolute; inset-inline-start: -400%;\"><p class=\"scrolling-content__text heading\"> Complimentary shipping to the USA and canada <\/p><\/div><div class=\"scrolling-content__item\" aria-hidden=\"true\" style=\"position: absolute; inset-inline-start: -500%;\"><p class=\"scrolling-content__text heading\"> Complimentary shipping to the USA and canada <\/p><\/div><\/marquee-text>\n  <\/div>"
           }
         },
         "complementary_products": {
@@ -110,9 +110,9 @@
         "separator",
         "quantity_selector",
         "buy_buttons",
+        "5767275b-95c9-4e25-9bd1-4e948d7251ef",
         "description",
         "8ec66322-e9ce-40aa-a499-97f3f3a92ea8",
-        "5767275b-95c9-4e25-9bd1-4e948d7251ef",
         "complementary_products"
       ],
       "settings": {
