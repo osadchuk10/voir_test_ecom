@@ -208,6 +208,7 @@
         "template--21331766771998__74067d68-6d9b-4a86-b729-2e1956d071de-look-2": {
           "type": "look",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_7668_1.webp",
             "hot_spots_background": "#ffffff",
             "product_1": "voir-bride-slip-dress-pearl-1",
             "product_1_horizontal_position": 30,
