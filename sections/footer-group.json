@@ -71,17 +71,17 @@
             "link": ""
           }
         },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true
-          }
-        },
         "39d76fb7-86ad-4ef0-ae9d-889604243908": {
           "type": "links",
           "settings": {
             "menu": "main-menu",
+            "show_menu_title": true
+          }
+        },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer-menu1",
             "show_menu_title": true
           }
         },
@@ -97,8 +97,8 @@
       },
       "block_order": [
         "886ced91-1324-4e43-8c54-9d0d8d353737",
-        "links",
         "39d76fb7-86ad-4ef0-ae9d-889604243908",
+        "links",
         "d6b31813-4f9a-446e-b8de-35c763660368"
       ],
       "custom_css": [
