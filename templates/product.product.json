@@ -56,13 +56,6 @@
           "settings": {
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false,
-            "show_below_gallery": false
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -72,6 +65,13 @@
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false,
+            "show_below_gallery": false
           }
         },
         "8ec66322-e9ce-40aa-a499-97f3f3a92ea8": {
@@ -109,8 +109,8 @@
         "payment_terms",
         "separator",
         "quantity_selector",
-        "description",
         "buy_buttons",
+        "description",
         "8ec66322-e9ce-40aa-a499-97f3f3a92ea8",
         "5767275b-95c9-4e25-9bd1-4e948d7251ef",
         "complementary_products"
