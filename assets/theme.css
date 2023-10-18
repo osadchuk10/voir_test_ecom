@@ -4755,7 +4755,7 @@ tfoot td {
   width: var(--header-logo-width);
   height: var(--header-logo-height);
   max-width: 100%;
-  opacity: calc(1 - var(--header-show-transparent-logo));
+
   transition: opacity .2s;
 }
 
