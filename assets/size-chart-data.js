@@ -1,4 +1,4 @@
 
   AVADA_SC.campaigns = [];
-  AVADA_SC.settings = {};
+  AVADA_SC.settings = {"id":"CpKaX5FsePYOoQkjlsHg","modalShadow":true,"buttonHeight":"35","modalLeft":8,"buttonInlinePosition":"before-add-cart","collectionPageInlinePosition":"after","modalTop":18,"hideText":true,"buttonRotation":true,"homePageInlinePosition":"after","shopDomain":"voir-store-test.myshopify.com","modalHeader":"Size guides","shopId":"24udK7DdN2Xj2aKJcmAh","inlinePosition":"after","enableGa":false,"buttonBorderRadius":10,"showMobile":true,"modalBgColor":"#FFFFFF","modalTextColor":"#232323","mobilePosition":"top","tableHoverColor":"#bdbdbd","buttonWidth":"80","customCss":"","showAdvanced":false,"modalOverlayColor":"#7b7b7b","modalBorderRadius":10,"linkBgColor":"#FFFFFF","linkText":"Size chart","buttonPosition":"middle-right","tableAnimation":true,"modalWidth":84,"modalHeight":64,"displayType":"float-button","modalPosition":"modal-center","collectionPagePosition":"","position":"","linkTextColor":"#232323","linkIcon":"","applyBEMCss":true,"homePagePosition":"","customIcon":false,"createdAt":{"_seconds":1697650484,"_nanoseconds":820000000}};
   
