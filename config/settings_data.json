@@ -43,15 +43,15 @@
         "settings": {
         }
       },
-      "12474315109555602070": {
-        "type": "shopify:\/\/apps\/drop-a-hint\/blocks\/app-embed\/488c5a32-472b-4418-8513-c5f42cbab15a",
+      "17368511000352060744": {
+        "type": "shopify:\/\/apps\/goaffpro-affiliate-marketing\/blocks\/goaffpro-embedded-pixel\/2f4d802b-86c2-47e4-8096-ae1aa3efbab2",
         "disabled": false,
         "settings": {
         }
       },
-      "17368511000352060744": {
-        "type": "shopify:\/\/apps\/goaffpro-affiliate-marketing\/blocks\/goaffpro-embedded-pixel\/2f4d802b-86c2-47e4-8096-ae1aa3efbab2",
-        "disabled": false,
+      "12474315109555602070": {
+        "type": "shopify:\/\/apps\/drop-a-hint\/blocks\/app-embed\/488c5a32-472b-4418-8513-c5f42cbab15a",
+        "disabled": true,
         "settings": {
         }
       }
